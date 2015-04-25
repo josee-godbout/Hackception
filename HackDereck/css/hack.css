@@ -5,32 +5,50 @@ body {
 	position: absolute;
 }
 #gangeticus {
+   left: 108px;
+    top: 60px;
 
 }
 #mindorensis {
-
+   top: 602px;
+   left: 522px;
 }
-#_moreletii {
 
+#_moreletii {
+   top: 602px;
+   left: 108px;
 }
 #niloticus {
+   top: 462px;
+   left: 108px;
 
 }
 #novaeguineae {
+    left: 522px;
+    top:462px;
 
 }
 #porosus {
-
+    left: 522px;
+    top:323px;
 }
 #rhombifer {
+    top:323px;
+    left:386px;
 
 }
 #schlegelii {
+   left: 108px;
+    top: 323px;
 
 }
 #siamensis {
+    left:247px;
+   top:323px;
 
 }
 #tetraspis {
+   left: 108px;
+  top: 184px;
 
 }
